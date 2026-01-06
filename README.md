@@ -1,5 +1,5 @@
 # Movie Explorer App
-A responsive React-based web application that allows users to search for movies, view details, and save favourites using the OMDb API.
+A responsive React-based web application that allows users to search for movies and view details using the OMDb API.
 
 ## Technology
 - React + Vite + OMDP Movie API + Bootstrap + JavaScript(ES6+)

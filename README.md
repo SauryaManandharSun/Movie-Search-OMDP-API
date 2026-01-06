@@ -42,7 +42,7 @@ Get your OMDb API key:
 - Add a dark mode toggle
 - Integrate user authentication to save favourites online
 
-## Thank You <3 <3
+## Thank You 🙏
 
 Thanks for visiting! I hope you enjoy exploring movies with this app. 🎬
 

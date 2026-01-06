@@ -14,11 +14,15 @@ A responsive React-based web application that allows users to search for movies,
    ```bash
    git clone https://github.com/SauryaManandharSun/Movie-Search-OMDP-API.git
 
-2. cd movie-app
+2. ```bash
+   cd movie-app
+   
 3. Create a .env file in the root folder and add your own OMDB API Key:
-VITE_OMDB_API_KEY=your_api_key_here
+   ```bash
+   VITE_OMDB_API_KEY=your_api_key_here
 
-4. npm run dev
+4. ```bash
+   npm run dev
 
 ## Future Improvements
 - Add pagination for large search results
@@ -26,7 +30,7 @@ VITE_OMDB_API_KEY=your_api_key_here
 - Add a dark mode toggle
 - Integrate user authentication to save favourites online
 
-## Thank You
+## Thank You <3 <3
 
 Thanks for visiting! I hope you enjoy exploring movies with this app. 🎬
 
